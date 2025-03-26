@@ -11,7 +11,7 @@ So what causes this? Well, looking in the browser console of one of these broken
 So why does this specific function not exist?
 
 Well, Chrome and other major browsers deprecated *and then removed* this API around early 2020, breaking compatibility with any site or extension that still used it.
-There's actually reports of this change breaking extensions and websites when the API was removed, as seen [here](https://github.com/Adobe-CEP/CEP-Resources/issues/272)
+There's actually reports of this change breaking extensions and websites when the API was removed, as seen [here](https://github.com/Adobe-CEP/CEP-Resources/issues/272).
 Now, of course, there's a newer function available that replaces it. But it's not just a drop in replacement, and since it's not, replacing every instance would be a total
 waste of time. 
 
