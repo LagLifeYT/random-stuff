@@ -1,4 +1,4 @@
-# Loading old YouTube Polymer UI captures
+# Loading old YouTube Polymer captures
 Have you ever tried to load a capture of YouTube on the Wayback Machine, only to be met with *this*?
 ![image](https://github.com/user-attachments/assets/3fd84214-dfd3-44b3-a22f-df40f68208a0)
 This usually happens when the Internet Archive archives the polymer version of YouTube, which existed alongside the older Hitchhiker UI for about three years, from August 29, 2017 to June 16, 2020.
