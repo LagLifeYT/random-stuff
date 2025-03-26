@@ -23,4 +23,5 @@ Instead, let's just try using an older browser version!
 So that worked. But there is one glaring issue with just downgrading your browser version, which is that it will immediately
 try to autoupdate. You'd have to disable this, but then that's no good since now you're running a browser which is *at least* 5 years out of date!
 
-Unfortunately, I have been unable to find any other way of loading these captures in 2025. The maximum Chrome version that can be used to load them is 79, as `document.registerElement` was removed in Chrome 80.
+Unfortunately, I have been unable to find any other way of loading these captures in 2025. The maximum Chrome version that can be used to load them is 79, as `document.registerElement` was removed in Chrome 80. Due to GitHub's limit of 25MB per file, here is the 97MB archive of Chrome v79 - hosted on Google Drive
+https://drive.google.com/file/d/1oGrtrumYfBQls_UTFCPkvfuAfzZC76DO/view?usp=sharing
