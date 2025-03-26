@@ -23,4 +23,4 @@ Instead, let's just try using an older browser version!
 So that worked. But there is one glaring issue with just downgrading your browser version, which is that it will immediately
 try to autoupdate. You'd have to disable this, but then that's no good since now you're running a browser which is *at least* 5 years out of date!
 
-There has to be a better way. 
+Unfortunately, I have been unable to find any other way of loading these captures in 2025. The maximum Chrome version that can be used to load them is 79, as `document.registerElement` was removed in Chrome 80.
